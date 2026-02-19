@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is your return policy?",
+    "answer": "We offer a 30-day return policy for most products. Items must be in original condition with all accessories and packaging. To initiate a return, contact our support team with your order number. Refunds are processed within 5-7 business days after we receive the returned item. Shipping costs for returns are covered by TechPro if the item is defective or damaged. For change-of-mind returns, customers are responsible for return shipping. Some products like opened software, used earbuds, and custom-configured devices may not be eligible for return due to hygiene or licensing reasons. Extended return windows apply during holiday seasons - check our website for current policies.",
+    "category": "Returns"
+  },
+  {
+    "question": "How long does shipping take?",
+    "answer": "Standard shipping typically takes 5-7 business days. Expedited shipping (2-3 business days) and overnight shipping are available at checkout for additional cost. Orders are processed within 24 hours on business days. You will receive tracking information via email once your order ships. Shipping is free on orders over $500. Delivery times may vary based on location and product availability. Large items like TVs and monitors may require freight shipping with scheduled delivery appointments. International shipping is available to select countries with delivery times of 10-15 business days. Custom delays may apply for international orders.",
+    "category": "Shipping"
+  },
+  {
+    "question": "What warranty do your products have?",
+    "answer": "All TechPro products include a manufacturer warranty. Most products have a 1-year standard warranty, with premium items like the X2 Laptop including 2-3 year coverage. Warranties cover manufacturing defects and hardware failures under normal use. Accidental damage, water damage, and unauthorized modifications void the warranty. Extended warranty protection plans are available at purchase providing additional coverage for accidental damage and extending the warranty period. Warranty service can be initiated through our support portal. We offer advance replacement for many products, sending a replacement before you return the defective unit. Warranty is non-transferable and applies to original purchaser only.",
+    "category": "Warranty"
+  },
+  {
+    "question": "Do you offer student or business discounts?",
+    "answer": "Yes! Students and educators receive 10% discount on most products by verifying their status through our education portal. Business customers can apply for a TechPro Business Account receiving volume discounts, NET 30 payment terms, and dedicated account management. Government and nonprofit organizations receive special pricing through our institutional sales program. Discounts cannot be combined with other promotions unless explicitly stated. Military personnel receive a 15% discount year-round. Healthcare workers receive special pricing on select products. Contact our sales team for bulk orders of 10+ units for additional discounts.",
+    "category": "Discounts"
+  },
+  {
+    "question": "How do I track my order?",
+    "answer": "After your order ships, you'll receive an email with tracking information. You can also track your order by logging into your TechPro account and viewing order history. Click on your order to see detailed tracking with expected delivery date and current location. Tracking typically updates every 6-12 hours. If your order shows as delivered but you haven't received it, check with neighbors or building management, then contact our support team within 48 hours. For orders that haven't shipped yet, the status will show as 'Processing'. Most orders ship within 24 hours of placement on business days.",
+    "category": "Orders"
+  },
+  {
+    "question": "Can I change or cancel my order?",
+    "answer": "Orders can be modified or cancelled within 1 hour of placement. After that, orders enter processing and cannot be cancelled. Contact support immediately if you need to change your order. If the order has already shipped, you can refuse delivery or initiate a return once received. For modified orders, a new order may need to be placed. Rush orders cannot be cancelled or modified. Custom-configured products cannot be cancelled after the 1-hour window. Changes to shipping address are possible if the order hasn't shipped yet - contact support with your order number and new address.",
+    "category": "Orders"
+  },
+  {
+    "question": "What payment methods do you accept?",
+    "answer": "We accept all major credit cards (Visa, Mastercard, American Express, Discover), debit cards, PayPal, Apple Pay, Google Pay, and TechPro Gift Cards. For business accounts, we offer NET 30 payment terms after credit approval. Financing is available through our partner Affirm for purchases over $500 - pay over 6, 12, or 24 months with transparent APR rates shown at checkout. All payments are processed securely using industry-standard encryption. We do not store your credit card information on our servers. International orders may require payment in USD. Wire transfers are accepted for large corporate orders.",
+    "category": "Payment"
+  },
+  {
+    "question": "Is international shipping available?",
+    "answer": "Yes, we ship to over 50 countries worldwide. International shipping costs and delivery times are calculated at checkout based on destination and weight. Orders typically arrive within 10-15 business days. Customers are responsible for any customs duties, taxes, or import fees imposed by their country. These fees are not included in our pricing and vary by location. We recommend checking with your local customs office for estimated fees. International orders cannot be expedited. Returns from international orders must be shipped back at customer expense and may take longer to process. All international orders are shipped with tracking and insurance.",
+    "category": "Shipping"
+  },
+  {
+    "question": "How do I contact customer support?",
+    "answer": "Our customer support team is available Monday-Friday 8AM-8PM EST, Saturday-Sunday 10AM-6PM EST. Contact us by phone at 1-800-TECHPRO (1-800-832-4776), email at support@techpro.com, or live chat on our website. For fastest response, use live chat during business hours. Email responses typically arrive within 4-6 hours during business days. Our support portal allows you to create tickets, track their status, and access self-service resources. For technical support, have your product serial number and order number ready. Premium support with faster response times is available with extended warranty plans.",
+    "category": "Support"
+  },
+  {
+    "question": "Do your products come with software?",
+    "answer": "Most products come with essential software pre-installed. Laptops include Windows 11 (Home or Pro depending on model) with activation key. Smartphones and tablets run TechPro OS (based on Android) with regular updates. TVs include TechPro Smart OS with popular streaming apps. Productivity software (Microsoft Office, antivirus) is not included but can be added at checkout with discount. All devices receive firmware updates for security and features - enable automatic updates in settings. Some products include trial subscriptions to streaming services or cloud storage. Gaming laptops may include trial periods for game streaming services. Driver and utility software can be downloaded from our support website.",
+    "category": "Software"
+  }
+]

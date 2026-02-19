@@ -1,0 +1,49 @@
+[
+  {
+    "refund_id": "REF-101",
+    "order_id": "ORD-1001",
+    "amount": 1299.99,
+    "status": "pending",
+    "reason": "Product defect - screen flickering issue",
+    "requested_date": "2026-01-23",
+    "expected_completion": "2026-01-30"
+  },
+  {
+    "refund_id": "REF-102",
+    "order_id": "ORD-1004",
+    "amount": 1299.99,
+    "status": "processed",
+    "reason": "Dead pixels on TV screen",
+    "requested_date": "2026-01-28",
+    "processed_date": "2026-02-01",
+    "expected_completion": "2026-02-04"
+  },
+  {
+    "refund_id": "REF-103",
+    "order_id": "ORD-1006",
+    "amount": 349.99,
+    "status": "approved",
+    "reason": "Battery performance below specification",
+    "requested_date": "2026-02-02",
+    "expected_completion": "2026-02-09"
+  },
+  {
+    "refund_id": "REF-104",
+    "order_id": "ORD-1008",
+    "amount": 299.99,
+    "status": "pending",
+    "reason": "Audio quality issue",
+    "requested_date": "2026-02-05",
+    "expected_completion": "2026-02-12"
+  },
+  {
+    "refund_id": "REF-105",
+    "order_id": "ORD-1002",
+    "amount": 199.99,
+    "status": "completed",
+    "reason": "Changed mind on earbuds",
+    "requested_date": "2026-02-03",
+    "processed_date": "2026-02-06",
+    "expected_completion": "2026-02-10"
+  }
+]

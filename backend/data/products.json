@@ -1,0 +1,375 @@
+[
+  {
+    "id": 1,
+    "name": "TechPro X1 Laptop",
+    "category": "Laptops",
+    "brand": "TechPro",
+    "price": 1299.99,
+    "description": "High-performance laptop with latest Intel processor and stunning display",
+    "specs": {
+      "processor": "Intel Core i7-13700H",
+      "ram": "16GB DDR5",
+      "storage": "512GB NVMe SSD",
+      "display": "15.6 inch FHD",
+      "battery": "12 hours",
+      "ports": ["USB-C", "USB-A", "HDMI", "Audio Jack"],
+      "os": "Windows 11 Pro"
+    },
+    "in_stock": true,
+    "warranty": "2 years",
+    "rating": 4.7,
+    "reviews_count": 1243
+  },
+  {
+    "id": 2,
+    "name": "TechPro X2 Laptop",
+    "category": "Laptops",
+    "brand": "TechPro",
+    "price": 1599.99,
+    "description": "Premium laptop for professionals with enhanced graphics",
+    "specs": {
+      "processor": "Intel Core i9-13900H",
+      "ram": "32GB DDR5",
+      "storage": "1TB NVMe SSD",
+      "display": "16 inch 4K",
+      "battery": "8 hours",
+      "ports": ["Thunderbolt 4", "USB-C", "HDMI 2.1", "Audio Jack"],
+      "os": "Windows 11 Pro"
+    },
+    "in_stock": true,
+    "warranty": "3 years",
+    "rating": 4.9,
+    "reviews_count": 892
+  },
+  {
+    "id": 3,
+    "name": "TechPro UltraBook 13",
+    "category": "Laptops",
+    "brand": "TechPro",
+    "price": 999.99,
+    "description": "Lightweight ultrabook perfect for travel",
+    "specs": {
+      "processor": "Intel Core i5-1335U",
+      "ram": "8GB DDR4",
+      "storage": "256GB SSD",
+      "display": "13.3 inch FHD",
+      "battery": "15 hours",
+      "ports": ["USB-C", "USB-A", "Audio Jack"],
+      "os": "Windows 11 Home"
+    },
+    "in_stock": true,
+    "warranty": "1 year",
+    "rating": 4.5,
+    "reviews_count": 567
+  },
+  {
+    "id": 4,
+    "name": "TechPro Gaming Laptop G1",
+    "category": "Laptops",
+    "brand": "TechPro",
+    "price": 1899.99,
+    "description": "High-performance gaming laptop with RTX graphics",
+    "specs": {
+      "processor": "Intel Core i9-13900HX",
+      "ram": "32GB DDR5",
+      "storage": "2TB NVMe SSD",
+      "display": "17.3 inch QHD 240Hz",
+      "battery": "6 hours",
+      "ports": ["Thunderbolt 4", "USB-C", "USB-A", "HDMI 2.1", "Ethernet"],
+      "os": "Windows 11 Home"
+    },
+    "in_stock": true,
+    "warranty": "2 years",
+    "rating": 4.8,
+    "reviews_count": 723
+  },
+  {
+    "id": 5,
+    "name": "TechPro SmartPhone Pro 12",
+    "category": "Smartphones",
+    "brand": "TechPro",
+    "price": 899.99,
+    "description": "Flagship smartphone with advanced AI camera",
+    "specs": {
+      "processor": "Snapdragon 8 Gen 2",
+      "ram": "12GB",
+      "storage": "256GB",
+      "display": "6.7 inch AMOLED",
+      "camera": "50MP Triple Camera",
+      "battery": "5000mAh",
+      "connectivity": ["5G", "WiFi 6E", "Bluetooth 5.3"]
+    },
+    "in_stock": true,
+    "warranty": "1 year",
+    "rating": 4.6,
+    "reviews_count": 2341
+  },
+  {
+    "id": 6,
+    "name": "TechPro SmartPhone Lite 10",
+    "category": "Smartphones",
+    "brand": "TechPro",
+    "price": 499.99,
+    "description": "Affordable smartphone with great features",
+    "specs": {
+      "processor": "Snapdragon 778G",
+      "ram": "8GB",
+      "storage": "128GB",
+      "display": "6.5 inch FHD+",
+      "camera": "48MP Dual Camera",
+      "battery": "4500mAh",
+      "connectivity": ["5G", "WiFi 6", "Bluetooth 5.2"]
+    },
+    "in_stock": true,
+    "warranty": "1 year",
+    "rating": 4.3,
+    "reviews_count": 1567
+  },
+  {
+    "id": 7,
+    "name": "TechPro OLED TV 55",
+    "category": "TVs",
+    "brand": "TechPro",
+    "price": 1299.99,
+    "description": "55-inch 4K OLED Smart TV with stunning colors",
+    "specs": {
+      "screen_size": "55 inches",
+      "resolution": "4K UHD (3840 x 2160)",
+      "display": "OLED",
+      "refresh_rate": "120Hz",
+      "connectivity": ["HDMI 2.1", "USB", "WiFi", "Bluetooth"],
+      "os": "TechPro Smart OS"
+    },
+    "in_stock": true,
+    "warranty": "2 years",
+    "rating": 4.8,
+    "reviews_count": 456
+  },
+  {
+    "id": 8,
+    "name": "TechPro QLED TV 65",
+    "category": "TVs",
+    "brand": "TechPro",
+    "price": 1599.99,
+    "description": "65-inch QLED Smart TV with quantum dot technology",
+    "specs": {
+      "screen_size": "65 inches",
+      "resolution": "4K UHD (3840 x 2160)",
+      "display": "QLED",
+      "refresh_rate": "120Hz",
+      "connectivity": ["HDMI 2.1", "USB", "WiFi", "Bluetooth", "Ethernet"],
+      "os": "TechPro Smart OS"
+    },
+    "in_stock": true,
+    "warranty": "2 years",
+    "rating": 4.7,
+    "reviews_count": 389
+  },
+  {
+    "id": 9,
+    "name": "TechPro Wireless Earbuds Pro",
+    "category": "Audio",
+    "brand": "TechPro",
+    "price": 199.99,
+    "description": "Premium wireless earbuds with active noise cancellation",
+    "specs": {
+      "battery": "8 hours (30 with case)",
+      "connectivity": ["Bluetooth 5.3"],
+      "features": ["ANC", "Transparency Mode", "Spatial Audio"]
+    },
+    "in_stock": true,
+    "warranty": "1 year",
+    "rating": 4.6,
+    "reviews_count": 2123
+  },
+  {
+    "id": 10,
+    "name": "TechPro Wireless Headphones",
+    "category": "Audio",
+    "brand": "TechPro",
+    "price": 299.99,
+    "description": "Over-ear wireless headphones with superior sound quality",
+    "specs": {
+      "battery": "40 hours",
+      "connectivity": ["Bluetooth 5.3", "3.5mm Audio Jack"],
+      "features": ["ANC", "Multi-device Connection", "Hi-Res Audio"]
+    },
+    "in_stock": true,
+    "warranty": "2 years",
+    "rating": 4.8,
+    "reviews_count": 1678
+  },
+  {
+    "id": 11,
+    "name": "TechPro 4K Webcam",
+    "category": "Accessories",
+    "brand": "TechPro",
+    "price": 149.99,
+    "description": "Professional 4K webcam for streaming and video calls",
+    "specs": {
+      "resolution": "4K 30fps",
+      "features": ["Auto Focus", "HDR", "Built-in Microphone"],
+      "connectivity": ["USB-C"]
+    },
+    "in_stock": true,
+    "warranty": "1 year",
+    "rating": 4.5,
+    "reviews_count": 834
+  },
+  {
+    "id": 12,
+    "name": "TechPro Mechanical Keyboard",
+    "category": "Accessories",
+    "brand": "TechPro",
+    "price": 129.99,
+    "description": "RGB mechanical keyboard for gaming and productivity",
+    "specs": {
+      "features": ["RGB Backlight", "Hot-swappable Switches", "Aluminum Frame"],
+      "connectivity": ["USB-C", "Wireless 2.4GHz", "Bluetooth"]
+    },
+    "in_stock": true,
+    "warranty": "2 years",
+    "rating": 4.7,
+    "reviews_count": 1234
+  },
+  {
+    "id": 13,
+    "name": "TechPro Gaming Mouse",
+    "category": "Accessories",
+    "brand": "TechPro",
+    "price": 79.99,
+    "description": "Precision gaming mouse with customizable buttons",
+    "specs": {
+      "features": ["16000 DPI", "RGB Lighting", "8 Programmable Buttons"],
+      "connectivity": ["USB-C", "Wireless 2.4GHz"]
+    },
+    "in_stock": true,
+    "warranty": "2 years",
+    "rating": 4.6,
+    "reviews_count": 1567
+  },
+  {
+    "id": 14,
+    "name": "TechPro Portable Monitor 15.6",
+    "category": "Monitors",
+    "brand": "TechPro",
+    "price": 249.99,
+    "description": "Portable USB-C monitor for on-the-go productivity",
+    "specs": {
+      "screen_size": "15.6 inches",
+      "resolution": "1920 x 1080",
+      "connectivity": ["USB-C", "Mini HDMI"],
+      "features": ["Auto Rotation", "Built-in Speakers"]
+    },
+    "in_stock": true,
+    "warranty": "1 year",
+    "rating": 4.4,
+    "reviews_count": 523
+  },
+  {
+    "id": 15,
+    "name": "TechPro 27 4K Monitor",
+    "category": "Monitors",
+    "brand": "TechPro",
+    "price": 449.99,
+    "description": "27-inch 4K IPS monitor for professionals",
+    "specs": {
+      "screen_size": "27 inches",
+      "resolution": "3840 x 2160",
+      "refresh_rate": "60Hz",
+      "connectivity": ["HDMI 2.0", "DisplayPort 1.4", "USB-C"],
+      "features": ["HDR400", "99% sRGB"]
+    },
+    "in_stock": true,
+    "warranty": "3 years",
+    "rating": 4.7,
+    "reviews_count": 876
+  },
+  {
+    "id": 16,
+    "name": "TechPro Tablet Pro 11",
+    "category": "Tablets",
+    "brand": "TechPro",
+    "price": 699.99,
+    "description": "Powerful tablet with stylus support",
+    "specs": {
+      "processor": "Snapdragon 8 Gen 2",
+      "ram": "8GB",
+      "storage": "256GB",
+      "display": "11 inch LCD 120Hz",
+      "battery": "8000mAh",
+      "os": "Android 13"
+    },
+    "in_stock": true,
+    "warranty": "1 year",
+    "rating": 4.5,
+    "reviews_count": 678
+  },
+  {
+    "id": 17,
+    "name": "TechPro Smart Watch Pro",
+    "category": "Wearables",
+    "brand": "TechPro",
+    "price": 349.99,
+    "description": "Advanced smartwatch with health tracking",
+    "specs": {
+      "display": "1.4 inch AMOLED",
+      "battery": "7 days",
+      "features": ["Heart Rate", "SpO2", "GPS", "Sleep Tracking"],
+      "connectivity": ["Bluetooth 5.3", "WiFi"]
+    },
+    "in_stock": true,
+    "warranty": "1 year",
+    "rating": 4.6,
+    "reviews_count": 1234
+  },
+  {
+    "id": 18,
+    "name": "TechPro USB-C Hub",
+    "category": "Accessories",
+    "brand": "TechPro",
+    "price": 49.99,
+    "description": "7-in-1 USB-C hub with multiple ports",
+    "specs": {
+      "ports": ["USB-C PD", "HDMI 4K", "USB 3.0 x3", "SD Card", "MicroSD"],
+      "features": ["100W Power Delivery", "Aluminum Body"]
+    },
+    "in_stock": true,
+    "warranty": "1 year",
+    "rating": 4.4,
+    "reviews_count": 2345
+  },
+  {
+    "id": 19,
+    "name": "TechPro Power Bank 20000mAh",
+    "category": "Accessories",
+    "brand": "TechPro",
+    "price": 59.99,
+    "description": "High-capacity power bank with fast charging",
+    "specs": {
+      "capacity": "20000mAh",
+      "ports": ["USB-C", "USB-A x2"],
+      "features": ["65W Fast Charging", "LED Display"]
+    },
+    "in_stock": true,
+    "warranty": "1 year",
+    "rating": 4.5,
+    "reviews_count": 3456
+  },
+  {
+    "id": 20,
+    "name": "TechPro Laptop Stand",
+    "category": "Accessories",
+    "brand": "TechPro",
+    "price": 39.99,
+    "description": "Ergonomic aluminum laptop stand",
+    "specs": {
+      "material": "Aluminum Alloy",
+      "features": ["Adjustable Height", "Cable Management", "Foldable"]
+    },
+    "in_stock": true,
+    "warranty": "1 year",
+    "rating": 4.7,
+    "reviews_count": 1890
+  }
+]

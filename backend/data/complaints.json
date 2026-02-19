@@ -1,0 +1,47 @@
+[
+  {
+    "complaint_id": "CMP-101",
+    "order_id": "ORD-1001",
+    "issue": "Screen flickering",
+    "description": "The laptop screen flickers occasionally when running graphics-intensive applications",
+    "status": "in_progress",
+    "created_at": "2026-01-22 14:30:00",
+    "updated_at": "2026-01-23 09:15:00"
+  },
+  {
+    "complaint_id": "CMP-102",
+    "order_id": "ORD-1004",
+    "issue": "Dead pixels",
+    "description": "TV has 3 dead pixels in the center of the screen",
+    "status": "resolved",
+    "created_at": "2026-01-28 10:20:00",
+    "updated_at": "2026-02-01 16:45:00"
+  },
+  {
+    "complaint_id": "CMP-103",
+    "order_id": "ORD-1006",
+    "issue": "Battery drain",
+    "description": "Smart watch battery drains very quickly, only lasts 2 days instead of 7",
+    "status": "in_progress",
+    "created_at": "2026-02-01 11:00:00",
+    "updated_at": "2026-02-03 14:30:00"
+  },
+  {
+    "complaint_id": "CMP-104",
+    "order_id": "ORD-1008",
+    "issue": "Sound quality",
+    "description": "Headphones have crackling sound in the left ear",
+    "status": "open",
+    "created_at": "2026-02-05 15:45:00",
+    "updated_at": "2026-02-05 15:45:00"
+  },
+  {
+    "complaint_id": "CMP-105",
+    "order_id": "ORD-1002",
+    "issue": "Late delivery",
+    "description": "Package was supposed to arrive yesterday but still not received",
+    "status": "resolved",
+    "created_at": "2026-02-06 09:30:00",
+    "updated_at": "2026-02-07 11:20:00"
+  }
+]
